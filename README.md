@@ -15,6 +15,8 @@ Download from [releases page](https://github.com/nasa9084/git-license/releases) 
 
 ### build your own
 
+requirements: [dep](https://github.com/golang/dep)
+
 ``` shell
 $ git clone https://github.com/nasa9084/git-license.git
 $ cd git-license
