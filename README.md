@@ -20,7 +20,6 @@ requirements: [dep](https://github.com/golang/dep)
 ``` shell
 $ git clone https://github.com/nasa9084/git-license.git
 $ cd git-license
-$ dep ensure
 $ go build .
 ```
 
